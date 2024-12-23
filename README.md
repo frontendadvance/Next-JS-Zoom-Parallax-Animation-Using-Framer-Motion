@@ -1,3 +1,6 @@
+![Next JS Zoom Parallax Animation Using Framer Motion](https://github.com/user-attachments/assets/29465fe7-4fed-4fdc-b188-fb5a7252b248)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
